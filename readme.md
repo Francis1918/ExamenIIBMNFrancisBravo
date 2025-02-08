@@ -1,1 +1,2 @@
-Código base para el examen de Métodos Numéricos 2024-B.
+Examen II Bimestre.
+Pasquel Johann
