@@ -29,7 +29,7 @@ import numpy as np
 
 from typing import Callable
 
-from src import eliminacion_gaussiana
+from SRC import eliminacion_gaussiana
 
 
 # ####################################################################
