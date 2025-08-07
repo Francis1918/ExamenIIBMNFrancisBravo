@@ -128,4 +128,3 @@ def gauss_seidel(
         logging.info(f"i= {k} x: {x.T}")
 
     return x
-
